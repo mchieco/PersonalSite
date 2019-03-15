@@ -103,6 +103,12 @@ img {
 		}
 
 		@media (max-device-width: 480px) {
+			h1 {
+				font-size: 50px;
+			}
+			h2 {
+				font-size: 28px;
+			}
 			.btncenter {
 				position: absolute;	
 				transform: translateY(-50%);
